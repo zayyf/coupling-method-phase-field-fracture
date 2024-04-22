@@ -1,4 +1,3 @@
-
 Implementation of the coupling method between phase field model and classical linear elastic theory model for static and dynamic fracture.
 
 If you want to use these subroutine (research ONLY), please cite our papers:
